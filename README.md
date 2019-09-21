@@ -1,1 +1,1 @@
-# Привет
+# CSGOOD.github.io
